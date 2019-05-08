@@ -1,0 +1,6 @@
+owner=496027139439591446
+prefix=2
+game=Deviants.
+stayinchannel=true
+songinstatus=false
+token=NTc1NzYwMjc1NTMwMDU1Njgx.XNMong._AzAAvSr5GoHdt68RV3GGVW9Odw
